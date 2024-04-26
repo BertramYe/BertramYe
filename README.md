@@ -28,7 +28,7 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 
 <div align="center">
 
-![BertramYe's GitHub stats](https://github-stats.ubrong.com/api?username=BertramYe&show_icons=true&theme=tokyonight) 
+![BertramYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BertramYe&show_icons=true&theme=github_dark) 
 </div>
 
 
@@ -158,8 +158,6 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertramYe&layout=compact)
 
-<!-- ![Top Languages](https://github-stats.ubrong.com/api/top-langs/?username=BertramYe&layout=compact&theme=tokyonight)  -->
-
 </div>
 <br>
 
@@ -181,6 +179,7 @@ Bertram's Blog
 Bertram's GitHub
 </a>
 </span>
+<br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/bertramyerik%40gmail.com-%235b5b5b?style=flat-square&logo=gmail&logoColor=%23EA4335">
 <img alt="Static Badge" src="https://img.shields.io/badge/QQ_Group:876649311-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
@@ -191,6 +190,8 @@ Bertram's GitHub
 <h2  align="left"> 
 <img src='./assets/visitors.svg' style="width:30px">  Vistitors
 </h2>
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/BertramYe/count.svg)
+</div>
 
