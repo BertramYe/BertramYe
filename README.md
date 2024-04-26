@@ -169,22 +169,24 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 <div align="left">
 <span> 
 <a href="https://www.bertram-world.com/" >
-<img src='assets/blogicons.png' style='width:20px'>
+<img src='assets/blogicons.png' style="width:20px">
 Bertram's Blog
 </a>
 </span>
-<span> 
-<a href="https://github.com/BertramYe" style='margin-left:10px'>
+<span style="margin-left:10px"> 
+<a href="https://github.com/BertramYe" >
 <img src='assets/github.svg' style='width:20px'>
 Bertram's GitHub
 </a>
 </span>
+
 <br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/bertramyerik%40gmail.com-%235b5b5b?style=flat-square&logo=gmail&logoColor=%23EA4335">
 <img alt="Static Badge" src="https://img.shields.io/badge/QQ_Group:876649311-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
 
 </div>
+
 <br>
 
 <h2  align="left"> 
