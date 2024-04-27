@@ -164,7 +164,7 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 
 
 <h2  align="left"> 
-📫 How to reach me
+📫 Reach && Learn More About Me
 </h2>
 <div align="center">
 <h3>
@@ -181,7 +181,6 @@ Bertram's GitHub
 </h3>
 </div>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/bertramyerik%40gmail.com-%235b5b5b?style=flat-square&logo=gmail&logoColor=%23EA4335">
 <img alt="Static Badge" src="https://img.shields.io/badge/QQ_Group:876649311-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
 </div>
 
