@@ -95,6 +95,9 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 <a href="https://www.sqlite.org/">
 ![Static Badge](https://img.shields.io/badge/Sqlite3-%23525252?style=flat-square&logo=sqlite&logoColor=%23003B57)
 </a>
+<a href="https://www.mongodb.com/">
+![Static Badge](https://img.shields.io/badge/Mongo-%235c5c5c?style=flat-square&logo=mongodb&logoColor=%2347A248)
+</a>
 <a href="https://www.mysql.com/">
 ![Static Badge](https://img.shields.io/badge/MySQL-%23525252?style=flat-square&logo=mysql&logoColor=%234479A1)
 </a>
@@ -193,3 +196,6 @@ Bertram's GitHub
 ![Visitor Count](https://profile-counter.glitch.me/BertramYe/count.svg)
 </div>
 
+<!--reference: https://github.com/anuraghazra/github-readme-stats -->
+<!-- icons: https://simpleicons.org/ -->
+<!-- badge gen: https://shields.io/badges/static-badge -->
