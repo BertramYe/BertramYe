@@ -95,6 +95,9 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 <a href="https://www.sqlite.org/">
 ![Static Badge](https://img.shields.io/badge/Sqlite3-%23525252?style=flat-square&logo=sqlite&logoColor=%23003B57)
 </a>
+<a href="https://www.postgresql.org/">
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%23525252?style=flat-square&logo=PostgreSQL)
+</a>
 <a href="https://www.mongodb.com/">
 ![Static Badge](https://img.shields.io/badge/Mongo-%235c5c5c?style=flat-square&logo=mongodb&logoColor=%2347A248)
 </a>
@@ -104,6 +107,7 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 <a href="https://www.oracle.com/">
 ![Static Badge](https://img.shields.io/badge/Oracle-%23525252?style=flat-square&logo=oracle&logoColor=%23F80000)
 </a>
+
 
 <h3 align="left"><img src="./assets/deployment.svg" style="width:20px" >  Deployment </h3>
 <a href="https://git-scm.com/">
