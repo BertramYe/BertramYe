@@ -65,6 +65,12 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 <a href="https://ant.design/"> 
 ![Static Badge](https://img.shields.io/badge/Ant_Design-%23525252?style=flat-square&logo=antdesign&logoColor=%230170FE)
 </a>
+<a href="https://electronjs.org/"> 
+![Static Badge](https://img.shields.io/badge/Electron-%23525252?style=flat-square&logo=electron&logoColor=%2347848F)
+</a>
+
+
+
 
 <h3 align="left"> <img src="./assets/backend.svg" style="width:20px" >  Backend </h3>
 <a href="https://www.python.org/"> 
@@ -175,7 +181,7 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 </h2>
 <div align="center">
 <h3>
-<a href="https://www.bertram-world.com/" >
+<a href="https://www.bertramworld.tech/" >
 <img src='assets/blogicons.png' style="width:20px">
 Bertram's Blog
 </a>
@@ -203,3 +209,4 @@ Bertram's GitHub
 <!--reference: https://github.com/anuraghazra/github-readme-stats -->
 <!-- icons: https://simpleicons.org/ -->
 <!-- badge gen: https://shields.io/badges/static-badge -->
+<!-- 静态徽章查询网站 ：https://simpleicons.org/ -->
