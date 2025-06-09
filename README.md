@@ -87,7 +87,7 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 ![Static Badge](https://img.shields.io/badge/Django-%23525252?style=flat-square&logo=django&logoColor=%23092E20)
 </a>
 <a href="https://fastapi.tiangolo.com/">
-![Static Badge](https://img.shields.io/badge/FaskAPI-%23525252?style=flat-square&logo=fastapi&logoColor=%23009688)
+![Static Badge](https://img.shields.io/badge/FastAPI-%23525252?style=flat-square&logo=fastapi&logoColor=%23009688)
 </a>
 <a href="https://nodejs.org/">
 ![Static Badge](https://img.shields.io/badge/Nodejs-%23525252?style=flat-square&logo=nodedotjs&logoColor=%23339933)
