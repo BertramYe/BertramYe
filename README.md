@@ -87,7 +87,7 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 ![Static Badge](https://img.shields.io/badge/php-%23525252?style=flat-square&logo=php&logoColor=%777bb4)
 </a>
 <a href="https://www.rust-lang.org/">
-![Static Badge](https://img.shields.io/badge/Rust-%23525252?style=flat-square&logo=Rust&logoColor=%000000)
+![Static Badge](https://img.shields.io/badge/Rust-%2523525252?style=flat-square&logo=rust&logoColor=%23000000&color=%23525252)
 </a>
 <a href="https://wordpress.com/">
 ![Static Badge](https://img.shields.io/badge/WordPress-%23525252?style=flat-square&logo=wordpress&logoColor=%21759b)
