@@ -83,6 +83,15 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 <a href="https://dotnet.microsoft.com/">
 ![Static Badge](https://img.shields.io/badge/.Net-%23525252?style=flat-square&logo=nuget&logoColor=%23004880)
 </a>
+<a href="https://www.php.net/">
+![Static Badge](https://img.shields.io/badge/php-%23525252?style=flat-square&logo=php&logoColor=%777bb4)
+</a>
+<a href="https://www.rust-lang.org/">
+![Static Badge](https://img.shields.io/badge/Rust-%23525252?style=flat-square&logo=rust&logoColor=%000000)
+</a>
+<a href="https://wordpress.com/">
+![Static Badge](https://img.shields.io/badge/WordPress-%23525252?style=flat-square&logo=wordpress&logoColor=%21759b)
+</a>
 <a href="https://www.djangoproject.com/">
 ![Static Badge](https://img.shields.io/badge/Django-%23525252?style=flat-square&logo=django&logoColor=%23092E20)
 </a>
