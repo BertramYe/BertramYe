@@ -203,9 +203,9 @@ Bertram's GitHub
 </h3>
 </div>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Email:bertarmye@qq.com-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
+<img alt="Static Badge" src="https://img.shields.io/badge/Email: bertarmye@qq.com-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
 <br />
-<img alt="Static Badge" src="https://img.shields.io/badge/QQ_Group:876649311-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
+<img alt="Static Badge" src="https://img.shields.io/badge/QQ_Group: 876649311-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
 </div>
 
 
