@@ -189,12 +189,12 @@ When I'm not coding find me leaning all kinds of the new technology and try it w
 📫 Reach && Learn More About Me
 </h2>
 <div align="center">
-<h3>
+<!-- <h3>
 <a href="https://www.bertramworld.tech/" >
 <img src='assets/blogicons.png' style="width:20px">
 Bertram's Blog
 </a>
-</h3>
+</h3> -->
 <h3> 
 <a href="https://github.com/BertramYe" >
 <img src='assets/github.svg' style='width:20px'>
@@ -203,6 +203,8 @@ Bertram's GitHub
 </h3>
 </div>
 <div align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Email:bertarmye@qq.com-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
+<br />
 <img alt="Static Badge" src="https://img.shields.io/badge/QQ_Group:876649311-%23595959?style=flat-square&logo=tencentqq&logoColor=%23EB1923">
 </div>
 
@@ -212,7 +214,8 @@ Bertram's GitHub
 </h2>
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/BertramYe/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=BertramYe)
+
 </div>
 
 <!--reference: https://github.com/anuraghazra/github-readme-stats -->
